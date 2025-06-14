@@ -1,7 +1,7 @@
 {
     "serverstatus":"true",
     "noticemode":"true",
-    "dataclearmode":"false",
+    "dataclearmode":"true",
     "servermeassage":"Wait We Are Working On a new Update !",
     "opentime":" Just wait few more times 🙂",
     "libs":"https://github.com/arshgaming132/Online-imgui/raw/refs/heads/main/TOXIC.zip",
